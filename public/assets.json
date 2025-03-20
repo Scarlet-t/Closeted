@@ -1,0 +1,427 @@
+[
+    {
+        "path": "img/top/loose/1_pink_parent",
+        "files": [
+            {
+                "type": "image",
+                "key": "top.loose.1_pink_parent.1_pink_tucked",
+                "url": "1_pink_tucked.png"
+            },
+            {
+                "type": "image",
+                "key": "top.loose.1_pink_parent.1_pink_untucked",
+                "url": "1_pink_untucked.png"
+            }
+        ]
+    },
+    {
+        "path": "img/top/loose/1_black_parent",
+        "files": [
+            {
+                "type": "image",
+                "key": "top.loose.1_black_parent.1_black_untucked",
+                "url": "1_black_untucked.png"
+            },
+            {
+                "type": "image",
+                "key": "top.loose.1_black_parent.1_black_tucked",
+                "url": "1_black_tucked.png"
+            }
+        ]
+    },
+    {
+        "path": "img/top/loose/1_white_parent",
+        "files": [
+            {
+                "type": "image",
+                "key": "top.loose.1_white_parent.1_white_tucked",
+                "url": "1_white_tucked.png"
+            },
+            {
+                "type": "image",
+                "key": "top.loose.1_white_parent.1_white_untucked",
+                "url": "1_white_untucked.png"
+            }
+        ]
+    },
+    {
+        "path": "img/top/slimfit",
+        "files": [
+            {
+                "type": "image",
+                "key": "top.slimfit.2_grey",
+                "url": "2_grey.png"
+            },
+            {
+                "type": "image",
+                "key": "top.slimfit.1_black",
+                "url": "1_black.png"
+            },
+            {
+                "type": "image",
+                "key": "top.slimfit.2_greypink",
+                "url": "2_greypink.png"
+            },
+            {
+                "type": "image",
+                "key": "top.slimfit.1_pink",
+                "url": "1_pink.png"
+            },
+            {
+                "type": "image",
+                "key": "top.slimfit.2_pink",
+                "url": "2_pink.png"
+            },
+            {
+                "type": "image",
+                "key": "top.slimfit.2_black",
+                "url": "2_black.png"
+            },
+            {
+                "type": "image",
+                "key": "top.slimfit.2_blackpink",
+                "url": "2_blackpink.png"
+            }
+        ]
+    },
+    {
+        "path": "img/iconField",
+        "files": [
+            {
+                "type": "image",
+                "key": "iconField.1",
+                "url": "1.png"
+            }
+        ]
+    },
+    {
+        "path": "img/frame",
+        "files": [
+            {
+                "type": "image",
+                "key": "frame.1",
+                "url": "1.png"
+            }
+        ]
+    },
+    {
+        "path": "img/stuupid/face/nose/light",
+        "files": [
+            {
+                "type": "image",
+                "key": "stuupid.face.nose.light.1",
+                "url": "1.png"
+            }
+        ]
+    },
+    {
+        "path": "img/stuupid/face/nose",
+        "files": [
+            {
+                "type": "image",
+                "key": "stuupid.face.nose.2",
+                "url": "2.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.face.nose.1",
+                "url": "1.png"
+            }
+        ]
+    },
+    {
+        "path": "img/stuupid/face/mouth",
+        "files": [
+            {
+                "type": "image",
+                "key": "stuupid.face.mouth.2",
+                "url": "2.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.face.mouth.3",
+                "url": "3.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.face.mouth.1",
+                "url": "1.png"
+            }
+        ]
+    },
+    {
+        "path": "img/stuupid/face/makeup",
+        "files": [
+            {
+                "type": "image",
+                "key": "stuupid.face.makeup.2_light",
+                "url": "2_light.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.face.makeup.1_dark",
+                "url": "1_dark.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.face.makeup.2_dark",
+                "url": "2_dark.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.face.makeup.1_light",
+                "url": "1_light.png"
+            }
+        ]
+    },
+    {
+        "path": "img/stuupid/face/eyes",
+        "files": [
+            {
+                "type": "image",
+                "key": "stuupid.face.eyes.2",
+                "url": "2.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.face.eyes.3",
+                "url": "3.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.face.eyes.1",
+                "url": "1.png"
+            }
+        ]
+    },
+    {
+        "path": "img/stuupid/body/natural",
+        "files": [
+            {
+                "type": "image",
+                "key": "stuupid.body.natural.4",
+                "url": "4.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.body.natural.5",
+                "url": "5.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.body.natural.7",
+                "url": "7.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.body.natural.6",
+                "url": "6.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.body.natural.2",
+                "url": "2.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.body.natural.3",
+                "url": "3.png"
+            },
+            {
+                "type": "image",
+                "key": "stuupid.body.natural.1",
+                "url": "1.png"
+            }
+        ]
+    },
+    {
+        "path": "img/stuupid/body/unnatural",
+        "files": [
+            {
+                "type": "image",
+                "key": "stuupid.body.unnatural.1",
+                "url": "1.png"
+            }
+        ]
+    },
+    {
+        "path": "img/stuupid/ears",
+        "files": [
+            {
+                "type": "image",
+                "key": "stuupid.ears.1",
+                "url": "1.png"
+            }
+        ]
+    },
+    {
+        "path": "img/icons",
+        "files": [
+            {
+                "type": "image",
+                "key": "icons.hair",
+                "url": "hair.png"
+            },
+            {
+                "type": "image",
+                "key": "icons.mouth",
+                "url": "mouth.png"
+            },
+            {
+                "type": "image",
+                "key": "icons.makeup",
+                "url": "makeup.png"
+            },
+            {
+                "type": "image",
+                "key": "icons.nose",
+                "url": "nose.png"
+            },
+            {
+                "type": "image",
+                "key": "icons.bottom",
+                "url": "bottom.png"
+            },
+            {
+                "type": "image",
+                "key": "icons.ears",
+                "url": "ears.png"
+            },
+            {
+                "type": "image",
+                "key": "icons.accessory",
+                "url": "accessory.png"
+            },
+            {
+                "type": "image",
+                "key": "icons.top",
+                "url": "top.png"
+            },
+            {
+                "type": "image",
+                "key": "icons.skin",
+                "url": "skin.png"
+            },
+            {
+                "type": "image",
+                "key": "icons.tail",
+                "url": "tail.png"
+            },
+            {
+                "type": "image",
+                "key": "icons.eyes",
+                "url": "eyes.png"
+            }
+        ]
+    },
+    {
+        "path": "img/accessory/other",
+        "files": [
+            {
+                "type": "image",
+                "key": "accessory.other.1_black",
+                "url": "1_black.png"
+            },
+            {
+                "type": "image",
+                "key": "accessory.other.1_pink",
+                "url": "1_pink.png"
+            },
+            {
+                "type": "image",
+                "key": "accessory.other.1_purple",
+                "url": "1_purple.png"
+            },
+            {
+                "type": "image",
+                "key": "accessory.other.1_white",
+                "url": "1_white.png"
+            }
+        ]
+    },
+    {
+        "path": "img/bottom/low-waist",
+        "files": [
+            {
+                "type": "image",
+                "key": "bottom.low-waist.1_black",
+                "url": "1_black.png"
+            },
+            {
+                "type": "image",
+                "key": "bottom.low-waist.1_pink",
+                "url": "1_pink.png"
+            },
+            {
+                "type": "image",
+                "key": "bottom.low-waist.1_white",
+                "url": "1_white.png"
+            }
+        ]
+    },
+    {
+        "path": "img/bottom/high-waist",
+        "files": [
+            {
+                "type": "image",
+                "key": "bottom.high-waist.1_black",
+                "url": "1_black.png"
+            },
+            {
+                "type": "image",
+                "key": "bottom.high-waist.1_pink",
+                "url": "1_pink.png"
+            },
+            {
+                "type": "image",
+                "key": "bottom.high-waist.1_purple",
+                "url": "1_purple.png"
+            },
+            {
+                "type": "image",
+                "key": "bottom.high-waist.2_white",
+                "url": "2_white.png"
+            },
+            {
+                "type": "image",
+                "key": "bottom.high-waist.2_pink",
+                "url": "2_pink.png"
+            },
+            {
+                "type": "image",
+                "key": "bottom.high-waist.2_black",
+                "url": "2_black.png"
+            }
+        ]
+    },
+    {
+        "path": "img/hair/hair_front",
+        "files": [
+            {
+                "type": "image",
+                "key": "hair.hair_front.1",
+                "url": "1.png"
+            }
+        ]
+    },
+    {
+        "path": "img/hair/hair_front_ex",
+        "files": [
+            {
+                "type": "image",
+                "key": "hair.hair_front_ex.1",
+                "url": "1.png"
+            }
+        ]
+    },
+    {
+        "path": "img/hair/hair_back",
+        "files": [
+            {
+                "type": "image",
+                "key": "hair.hair_back.1",
+                "url": "1.png"
+            }
+        ]
+    }
+]

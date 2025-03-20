@@ -1,0 +1,6 @@
+wip: 
+psd-import.py
+    writeIntoAssetsJson functoin:
+        - doesn't append commas after each set of data correctly
+    makeVisible(item):
+        - doesn't change visibility of layers
